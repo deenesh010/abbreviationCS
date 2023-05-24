@@ -1,0 +1,15 @@
+D:\dinesh\4th sem\C#\lab\tmp\obj\Debug\net6.0\tmp.csproj.AssemblyReference.cache
+D:\dinesh\4th sem\C#\lab\tmp\obj\Debug\net6.0\tmp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dinesh\4th sem\C#\lab\tmp\obj\Debug\net6.0\tmp.AssemblyInfoInputs.cache
+D:\dinesh\4th sem\C#\lab\tmp\obj\Debug\net6.0\tmp.AssemblyInfo.cs
+D:\dinesh\4th sem\C#\lab\tmp\obj\Debug\net6.0\tmp.csproj.CoreCompileInputs.cache
+D:\dinesh\4th sem\C#\lab\tmp\bin\Debug\net6.0\tmp.exe
+D:\dinesh\4th sem\C#\lab\tmp\bin\Debug\net6.0\tmp.deps.json
+D:\dinesh\4th sem\C#\lab\tmp\bin\Debug\net6.0\tmp.runtimeconfig.json
+D:\dinesh\4th sem\C#\lab\tmp\bin\Debug\net6.0\tmp.dll
+D:\dinesh\4th sem\C#\lab\tmp\bin\Debug\net6.0\tmp.pdb
+D:\dinesh\4th sem\C#\lab\tmp\obj\Debug\net6.0\tmp.dll
+D:\dinesh\4th sem\C#\lab\tmp\obj\Debug\net6.0\refint\tmp.dll
+D:\dinesh\4th sem\C#\lab\tmp\obj\Debug\net6.0\tmp.pdb
+D:\dinesh\4th sem\C#\lab\tmp\obj\Debug\net6.0\tmp.genruntimeconfig.cache
+D:\dinesh\4th sem\C#\lab\tmp\obj\Debug\net6.0\ref\tmp.dll
